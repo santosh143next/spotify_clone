@@ -1,6 +1,6 @@
-import React, { Component, Fragment } from 'react';
-import "./SpotifySlider.css";
-
+//rafce
+import React, { Fragment } from 'react'
+import "./SoptifySlider.css"
 const SpotifySlider = () => {
     return (
         <Fragment>
@@ -13,7 +13,7 @@ const SpotifySlider = () => {
                         <p>Millions of songs and podcasts. No credit card needed.</p>
                     </main>
                     <footer>
-                        <button>get spotify fee</button>
+                        <button>GET SPOTIFY FREE</button>
                     </footer>
                 </article>
             </section>
